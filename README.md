@@ -18,8 +18,8 @@ The application is:
 ## 🛠️ Technologies Used
 
 - React.js  
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
+- HTML  
+- CSS  
+- JavaScript   
 - Vite  
 - Git & GitHub
