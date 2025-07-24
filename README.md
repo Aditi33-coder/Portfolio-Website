@@ -1,12 +1,25 @@
-# React + Vite
+This is a **personal resume website** built using **React**, **HTML**, **CSS**, and **JavaScript**. It showcases a clean and modern design to highlight:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- 💼 About
+- 🎓 Experience  
+- 🛠️ Technical Skills  
+- 📂 Projects  
+- 📞 Contact Information  
 
-Currently, two official plugins are available:
+The application is:
+- 🔗 **Responsive** across all screen sizes  
+- ⚛️ Built with modular **React components**  
+- 🎨 Styled with custom **CSS effects and transitions**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 [View Website](https://aditi33-coder.github.io/Portfolio-Website/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript (ES6)  
+- Vite  
+- Git & GitHub
